@@ -5,3 +5,10 @@
       box-sizing: border-box;
 }
 
+:root {
+      --color-white: #f3f3f3;
+      --color-darkblue: #1b1b32;
+      --color-darkblue-alpha:rgba(10, 8, 20, 0.8);
+      --color-green: #059862;
+}
+
