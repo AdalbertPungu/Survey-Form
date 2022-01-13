@@ -1,2 +1,3 @@
 # Survey-Form
-Deuxième projet Responsive Web Design chez FreeCodeCamp.
+Second Responsive Web Design project at FreeCodeCamp.
+
